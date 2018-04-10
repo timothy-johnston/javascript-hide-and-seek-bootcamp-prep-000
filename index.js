@@ -14,6 +14,6 @@ function increaseRankBy(n) {
   //}
   //return ranks
   
-  const lis = docuement.getElementByID('app').querySelectorAll('ul.ranked-list ')
+  const lis = docuement.getElementByID('app').querySelectorAll('ul.ranked-list li')
   
 }
